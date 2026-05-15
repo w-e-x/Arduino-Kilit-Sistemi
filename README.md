@@ -1,6 +1,6 @@
 # 🛡️  Akıllı Kilit ve Yönetim Sistemi
 
-**CyberLock**, Arduino tabanlı donanım kontrolünü, Flask tabanlı modern bir web arayüzü ile birleştiren çift katmanlı bir IoT güvenlik projesidir. Sistem; RFID kart, şifre paneli (Keypad) ve lokal ağ (Web Dashboard) üzerinden kapı/kilit yönetimi sağlar.
+Arduino tabanlı donanım kontrolünü, Flask tabanlı modern bir web arayüzü ile birleştiren çift katmanlı bir IoT güvenlik projesidir. Sistem; RFID kart, şifre paneli (Keypad) ve lokal ağ (Web Dashboard) üzerinden kapı/kilit yönetimi sağlar.
 
 ## 🚀 Öne Çıkan Özellikler
 * **Çoklu Giriş Yöntemi:** RFID Kart, 4 haneli şifre veya Web Arayüzü ile tetikleme.
