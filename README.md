@@ -15,7 +15,7 @@
 
 Bu proje, donanım mimarisi ve yazılım entegrasyonu alanında aşağıdaki geliştiriciler tarafından hazırlanmıştır:
 
-* **Şeyda Nur Demirkol** - *Backend & System Architecture*
+
 * **Umut Dirlik** - *Hardware Integration & UI/UX* | [LinkedIn Profiline Git](https://www.linkedin.com/in/umut-dirlik-9053aa321/)
 * **Kayra Miraç Daşdan** - *Core Algorithms & Testing* | [LinkedIn Profiline Git](https://www.linkedin.com/in/kayra-mira%C3%A7-da%C5%9Fdan-25a57338b/)
 
