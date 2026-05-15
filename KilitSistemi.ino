@@ -1,6 +1,6 @@
 /*
  * CyberLock v1.0 - Kilit Kontrol Ünitesi
- * Geliştirici Ekip: Şeyda Nur Demirkol (w3x), Umut Dirlik, Kayra Miraç Daşdan
+ * Geliştirici Ekip: Şeyda Nur Demirkol, Umut Dirlik, Kayra Miraç Daşdan
  */
 
 #include <Wire.h>
